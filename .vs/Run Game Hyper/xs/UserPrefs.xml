@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{8082081B-41AB-6222-C442-10CD570A5BC0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Game/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Game/Scripts/AdManager.cs" Line="170" Column="18" />
+      <File FileName="Assets/Game/Scripts/LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Game/Scripts/soundManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Game/Scripts/PlayerCollider.cs" Line="104" Column="57" />
+      <File FileName="Assets/Game/Scripts/GameManager.cs" Line="153" Column="9" />
+      <File FileName="Assets/Game/Scripts/numberControl.cs" Line="28" Column="80" />
+      <File FileName="Assets/Game/Scripts/starControl.cs" Line="66" Column="51" />
+      <File FileName="Assets/GoogleMobileAds/Platforms/Unity/DummyAdBehaviour.cs" Line="23" Column="1" />
+      <File FileName="Assets/Plugins/Android/GoogleMobileAdsPlugin.androidlib/AndroidManifest.xml" Line="7" Column="12" />
+      <File FileName="Assets/Game/Scripts/mobileControl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="69379866-b6fa-427c-bbbe-1cc03babe11e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

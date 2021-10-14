@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D33B4A51-F950-7976-0F03-7B16F01DCCF5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Game/Scripts/PlayerCollider.cs">
+    <Files>
+      <File FileName="Assets/Game/Scripts/PlayerCollider.cs" Line="108" Column="82" />
+      <File FileName="Assets/Game/Scripts/GameManager.cs" Line="170" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fd9e8bc7-be86-4d98-8de4-cd6d458735d1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
